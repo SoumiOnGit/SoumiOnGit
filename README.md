@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumi</h1>
-<h3 align="center">CSE and DS-AI student from India, into coding and AI, always exploring new ways to solve problems and create cool stuff in tech.</h3>
+<h3 align="center">CS and DS-AI student from India, into coding and AI, always exploring new ways to solve problems and create cool stuff in tech.</h3>
 
 
 <h3 align="left">Connect with me on linkedIn : https://www.linkedin.com/in/soumi-sarkar14/ </h3>
