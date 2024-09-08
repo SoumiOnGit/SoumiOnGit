@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soumi</h1>
 <h3 align="center">CSE and DS-AI student from India, into coding and AI, always exploring new ways to solve problems and create cool stuff in tech.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumiongit" alt="soumiongit" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on linkedIn : https://www.linkedin.com/in/soumi-sarkar14/ </h3>
 <p align="left">
 </p>
 
