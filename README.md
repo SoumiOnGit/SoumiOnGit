@@ -16,7 +16,7 @@
 
 
 # 📊 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=SoumiOnGit&theme=holi&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SoumiOnGit)](https://git.io/streak-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SoumiOnGit&icon=0&color=0)](https://visitcount.itsvg.in)
