@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumiongit&show_icons=true&locale=en&layout=compact" alt="soumiongit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumiongit&" alt="soumiongit" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=soumiongit&theme=react&layout=compact" alt="soumiongit" /></p>
