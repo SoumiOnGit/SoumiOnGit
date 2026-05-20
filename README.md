@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Soumi Sarkar</h1>
-<h3 align="center">A passionate AI/ML engineer and data scientist from India</h3>
+<h1 align="center">Hi, I'm Soumi Sarkar, a data scientist from India</h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SoumiOnGit&label=Profile%20views&color=0e75b6&style=flat" alt="SoumiOnGit" />
