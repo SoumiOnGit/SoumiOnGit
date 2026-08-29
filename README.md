@@ -1,26 +1,13 @@
-<h2 align="center">Hi, I'm Soumi Sarkar, a data scientist from India</h2>
+<h2 align="center">Hi, I'm Soumi </h2>
 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SoumiOnGit&label=Profile%20views&color=0e75b6&style=flat" alt="SoumiOnGit" />
 </p>
 
-- 🔭 I’m currently working on **Building machine learning models for real-world problems**
+- 🔭 I’m currently working on **building machine learning models for real-world problems**
 
----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/soumi-sarkar14" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumi-sarkar14" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/soumixsarkar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soumixsarkar" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/soumisarkar140902" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumisarkar140902" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
